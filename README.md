@@ -7,7 +7,7 @@ I've been in the software industry for over 30 years and have had lots of experi
 
 * [Acorn Atom (1980)]()
 * [BBC Micro (1981)]()
-* [Acorn Eletron (1983)]()
+* [Acorn Electron (1983)]()
 
 
 ## Business Computers
